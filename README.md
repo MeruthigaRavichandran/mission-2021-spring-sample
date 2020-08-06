@@ -89,3 +89,18 @@ public class ItechController {
     }
 }
 ```
+### To test the application
+
+* Start the application by right click & run the class with public static void main() method
+
+* Once its started, go to postman tool & try hitting any of the endpoint
+
+E.g. 
+
+```
+http://localhost:8080/test
+
+http://localhost:8080/test-json
+
+http://localhost:8080/vicky
+```
